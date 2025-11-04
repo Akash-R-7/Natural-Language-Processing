@@ -1,1 +1,1 @@
-The folder contains one of the scripts from my thesis work, "INVESTIGATING META-EMBEDDINGS FOR CODE-MIXED SENTIMENT ANALYSIS IN DIFFERENT LANGUAGE FAMILIES". 
+The folder contains one of the scripts from my thesis work, "INVESTIGATING META-EMBEDDINGS FOR CODE-MIXED SENTIMENT ANALYSIS IN DIFFERENT LANGUAGE FAMILIES". The script trains a neural classifier with concatenated embeddings from the last 4 layers of a multilingual model, mdeberta, as input features for the task of code-mixed sentiment analysis on Tamil-English data.
